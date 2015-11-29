@@ -1,0 +1,37 @@
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="tab_underline_selected_color">#ff9900</color>
+    <color name="red">#F44336</color>
+    <color name="dark_red">#B44336</color>
+    <color name="tab_selected_color">#fff</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#FF9900</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="grid_fb_back">#e1e4e9</color>
+    <color name="black">#000000</color>
+    <color name="fadeblack">#AA000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent_white">#80FFFFFF</color>
+    <color name="grey">#353535</color>
+    <color name="drawer">@color/grey</color>
+    <color name="drawer_text_color">@color/white</color>
+    <color name="actionBarColor">@color/black</color>
+    <color name="actionBarDrawerIconColor">@color/white</color>
+    <color name="primaryColor">#B2EBF2</color>
+    <color name="primaryColorDark">#009688</color>
+    <color name="fragments_background_color">@color/white</color>
+
+    <color name="mdtp_accent_color">@color/red</color>
+    <color name="light_red">#F89F98 </color>
+    <color name="mdtp_accent_color_dark">@color/dark_red</color>
+    
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="drawer_header_background">@color/primaryColor</color>
+    <color name="fragments_text_color">#607D8B</color>
+
+</resources>

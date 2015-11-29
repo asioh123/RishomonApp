@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="image_thumbnail_size">400dp</dimen>
+    <dimen name="image_thumbnail_spacing">2dp</dimen>
+
+    <dimen name="main_screen_padding">20dp</dimen>
+    <dimen name="button_text_size">12dp</dimen>
+    <dimen name="button_text_size_big">16dp</dimen>
+    <dimen name="main_screen_buttons_margings">10dp</dimen>
+    <dimen name="drawer_size">260dp</dimen>
+    <dimen name="main_menu_button_padding">1dp</dimen>
+    <dimen name="main_menu_Button_panel_height">55dp</dimen>
+    <dimen name="actionBarSize">55dp</dimen>
+    <dimen name="header_icon_size">50dp</dimen>
+    <dimen name="fragment_top_logo_size">100dp</dimen>
+    <dimen name="fragments_margings">10dp</dimen>
+    <dimen name="in_fragments_margings">2dp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="form_margings">3dp</dimen>
+    <dimen name="inputfield_padding">3dp</dimen>
+    <dimen name="sides_margins">10dp</dimen>
+    <dimen name="form_double_margings">6dp</dimen>
+    <dimen name="send_width">80dp</dimen>
+    <dimen name="send_height">40dp</dimen>
+    <dimen name="app_icon_size">80dp</dimen>
+    <dimen name="app_icon_double_size">175dp</dimen>
+    <dimen name="app_icon_half_size">35dp</dimen>
+    <dimen name="padding_medium">5dp</dimen>
+
+
+    <dimen name="main_activity_Button_panel_height">100dp</dimen>
+
+
+</resources>

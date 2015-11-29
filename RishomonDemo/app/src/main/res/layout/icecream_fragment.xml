@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+
+
+<GridView
+    android:layout_height="fill_parent"
+    android:id="@+id/grid"
+    android:layout_width="match_parent"
+    android:numColumns="auto_fit"
+    android:horizontalSpacing="10dp"
+    android:verticalSpacing="10dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_above="@+id/total_price">
+</GridView>
+
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:text=""
+    android:id="@+id/total_price"
+    android:gravity="center"
+    android:textColor="#010101"
+    android:textSize="20sp"
+    android:layout_alignParentBottom="true"
+    android:layout_toRightOf="@+id/btnOk"
+    android:layout_toEndOf="@+id/btnOk" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="חזור"
+    android:id="@+id/btnOk"
+    android:layout_below="@+id/grid"
+    android:layout_alignLeft="@+id/grid"
+    android:layout_alignStart="@+id/grid" />
+
+</RelativeLayout>
